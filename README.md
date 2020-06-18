@@ -11,5 +11,5 @@ Once setup, tests can be run with the following commands:
 
 ### Running with Docker
 
-1. docker-compose run --rm temp sh
+1. docker-compose run --rm temp bash
 3. Follow Testing steps
